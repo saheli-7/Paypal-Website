@@ -1,0 +1,486 @@
+.header{
+    height:80px;
+    width:100%;
+    background-color: white;
+}
+.header1{
+    height: 80px;
+    width:27%;
+    background-color: white;
+    float:left;
+    background-size: cover;
+}
+.header2{
+    height: 80px;
+    width:11%;
+    background-color:white;
+    float:left;
+}
+.header3{
+    height: 80px;
+    width:11%;
+    background-color:white;
+    float:left;
+}
+.header4{
+    height: 80px;
+    width:11%;
+    background-color:white;
+    float:left;
+}
+.header5{
+    height: 80px;
+    width:11%;
+    background-color:white;
+    float:left;
+}
+.h{
+    font-size: 1.2rem;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.header6{
+    height: 80px;
+    width:9%;
+    background-color:white;
+    float:left;
+}
+
+.header7{
+    height: 80px;
+    width:20%;
+    background-color:white;
+    float:left;
+}
+.loginbox-button{
+    padding:7px 14px;
+    background-color:white;
+    border: 1px solid #0097E0;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top:9%;
+    color:#0097E0;
+}
+
+.signupbox-button{
+    padding:7px 12px;
+    background-color:#0097E0;
+    border: none;
+    border-radius: 20px;
+    margin-left: 6%;
+    margin-top:9%;
+    color: white;
+}
+
+
+.content{
+    height:590px;
+    width:100%;
+    background-color:#0097E0;
+}
+.heading{
+    position: absolute;
+    font-size: 2.7rem;
+    color: white;
+    left:25%;
+    top:25%;
+}
+.heading1{
+    position: absolute;
+    font-size: 2.7rem;
+    color: white;
+    left:31%;
+    top:33%;
+}
+.signup-button {
+    position: absolute;
+    top:43%;
+    left:38%;
+    background-color: white; 
+    color: white;             
+    padding: 15px 115px;      
+    border: none;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:black;   
+    font-weight: bold;   
+    font-size: 1rem;
+}
+
+.signup-button:hover {
+    background-color:#02387b;
+}
+.img{
+    position: absolute;
+    top:60%;
+}
+
+
+.content1{
+    height: 130px;
+    width:100%;
+    background-color:#02387b;
+}
+.heading2{
+    position: absolute;
+    font-size: 1.6rem;
+    top:93%;
+    left:12%;
+    color: white;
+}
+.paypal-button {
+    position: absolute;
+    top:99%;
+    left:45%;
+    background-color: white; 
+    color: white;             
+    padding: 10px 18px;      
+    border: none;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:black;   
+    font-weight: bold;   
+    font-size: 0.8rem;
+}
+
+.paypal-button:hover {
+    background-color:#0097E0;
+}
+
+
+.container{
+    height: 400px;
+    width:100%;
+    background-color: #f5f7fa;
+}
+.left-box{
+    position: absolute;
+    height: 400px;
+    width: 50%;
+    background-color: transparent;
+    float: left;
+}
+.des1{
+    position: absolute;
+    font-size: 2.7rem;
+    left:30%;
+    top:8%;
+    color: #0097E0;
+}
+.des2{
+    position: absolute;
+    font-size: 1.1rem;
+    left:30%;
+    top:45%;
+    color: black;
+}
+.shop-button {
+    position: absolute;
+    top:68%;
+    left:30%;
+    background-color: transparent; 
+    color: white;             
+    padding: 15px 115px;      
+    border: 1px solid #0097E0;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:#0097E0;   
+    font-weight: bold;   
+    font-size: 1rem;
+}
+
+.shop-button:hover {
+    background-color:#0097E0;
+    color:white;
+}
+.right-box{
+    position: absolute;
+    height: 400px;
+    width: 50%;
+    background-color:transparent;
+    float: left;
+    left:50%;
+    background-size: cover;
+}
+
+
+.container1{
+    height: 450px;
+    width: 100%;
+    background-color: white;
+}
+.left-box1{
+    position: absolute;
+    height: 450px;
+    width: 50%;
+    background-color:transparent;
+    float: left;
+    background-size: cover;
+}
+.right-box1{
+    position: absolute;
+    height: 450px;
+    width: 50%;
+    float:left;
+    left:50%;
+    background-color: transparent;
+}
+.des3{
+    position: absolute;
+    font-size: 2.7rem;
+    top:20%;
+    left:3%;
+    color:#0097E0;
+}
+.des4{
+    position: absolute;
+    font-size: 1.1rem;
+    top:42%;
+    left:3%;
+    color:black;
+}
+.link-button {
+    position: absolute;
+    top:63%;
+    left:3%;
+    background-color: transparent; 
+    color: white;             
+    padding: 15px 67px;      
+    border: 1px solid #0097E0;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:#0097E0;   
+    font-weight: bold;   
+    font-size: 1rem;
+}
+
+.link-button:hover {
+    background-color:#0097E0;
+    color:white;
+}
+
+
+.container2{
+    height: 380px;
+    width: 100%;
+    background-color: #f5f7fa;
+}
+.left-box2{
+    position: absolute;
+    height: 380px;
+    width: 50%;
+    background-color:transparent;
+    float: left;
+}
+.des5{
+    position: absolute;
+    font-size: 2.7rem;
+    top:15%;
+    left:20%;
+    color:#0097E0;
+}
+.des6{
+    position: absolute;
+    font-size: 1.1rem;
+    top:40%;
+    left:20%;
+    color:black;
+}
+.find-button {
+    position: absolute;
+    top:63%;
+    left:20%;
+    background-color: transparent; 
+    color: white;             
+    padding: 15px 100px;      
+    border: 1px solid #0097E0;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:#0097E0;   
+    font-weight: bold;   
+    font-size: 1rem;
+}
+
+.find-button:hover {
+    background-color:#0097E0;
+    color:white;
+}
+.right-box2{
+    position: absolute;
+    height: 380px;
+    width: 50%;
+    background-color:transparent;
+    float: left;
+    left:50%;
+    background-size: cover;
+}
+
+
+.container3{
+    height: 320px;
+    width: 100%;
+    background-color: white;
+}
+.heading3{
+    position: absolute;
+    font-size:2.7rem;
+    top:280%;
+    left:25%;
+    color: #0097E0;
+
+}
+
+
+.container4{
+    height: 400px;
+    width: 100%;
+    background-color: #0097E0;
+}
+.heading4{
+    position: absolute;
+    font-size:2.4rem;
+    top:325%;
+    left:18%;
+    color: white;
+}
+.heading5{
+    position: absolute;
+    font-size:2.4rem;
+    top:333%;
+    left:27.5%;
+    color: white;
+}
+.up-button {
+    position: absolute;
+    top:343%;
+    left:39%;
+    background-color:white ; 
+    color: white;             
+    padding: 15px 109px;      
+    border: none;             
+    border-radius: 30px;       
+    cursor: pointer;    
+    color:#02387b;   
+    font-weight: bold;   
+    font-size: 1rem;
+}
+.up-button:hover {
+    background-color:white;
+}
+.box-1{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:27%;
+}
+.box-2{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:32.3%;
+}
+.box-3{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:37.5%;
+}
+.box-4{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:42.8%;
+}
+.box-5{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:48%;
+}
+.box-6{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:53.3%;
+}
+.box-7{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:58.6%;
+}
+.box-8{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:63.8%;
+}
+.box-9{
+    position: absolute;
+    background-color: white;
+    top:355%;
+    border-radius: 20px;
+    left:69.1%;
+}
+.adjust{
+    height:70px;
+    width:70px;
+}
+.num{
+    position: absolute;
+    font-size:3.3rem;
+    font-family: PayPalSansSmall-Regular,Helvetica Neue,Arial,sans-serif;
+    left:33%;
+    top:5%;
+}
+
+
+#footer{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.heading6{
+    position:absolute;
+    top:378%;
+    left:14%;
+    font-size: 1rem;
+    line-height:1.6;
+}
+.heading7{
+    position: absolute;
+    top:400%;
+    left:14%;
+    font-weight: 800;
+}
+.f{
+    height: 260px;
+    width: 100%;
+    background-color:white;
+    position: absolute;
+    top:403%;
+    border-top: 1px solid rgba(77, 75, 75, 0.575);
+}
+.heading8{
+    position: absolute;
+    top:7%;
+    left:14%;
+    color: rgba(42, 40, 40, 0.688);
+    font-weight: 600;
+}
+.p{
+    position: absolute;
+    top:25%;
+    left:14%;
+    font-size: 1rem;
+    line-height: 2;
+    color: rgba(42, 40, 40, 0.688);
+}
